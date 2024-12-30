@@ -9,3 +9,14 @@ This lab required the following in order to attempt:
   2) Kali Linux (I utilize the preconfigured Kali images found at [osboxes.org](https://www.osboxes.org/vmware-images/) to save time on having to do a complete install)
   3) Jangow VM found at vulnhub.com at the following link >>>
   (**Disclaimer: This Virtual Machine was created by the user,  and I have no claim/credit to any part of its development**)
+
+### Tools Used
+
+### Skills Learned / Developed
+
+### Procedure
+
+#### 1) Information Gathering
+
+With both VM's running , we start by doing a nmap scan of the network we are in to identify  the IP of the vulnerable machine
+
